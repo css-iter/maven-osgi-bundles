@@ -128,7 +128,7 @@
                   <id>mysql:mysql-connector-java:8.0.12</id>
                 </artifact>
                 <artifact>
-                  <id>org.postgresql:postgresql:42.1.4</id>
+                  <id>org.postgresql:postgresql:42.2.5</id>
                 </artifact>
                 <artifact>
                   <id>org.apache.aries.spifly:org.apache.aries.spifly.dynamic.bundle:1.0.8</id>
